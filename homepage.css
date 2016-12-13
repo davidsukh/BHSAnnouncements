@@ -1,0 +1,29 @@
+div {
+	height: 11%;
+    width: 35%;
+    max-height: 11%;
+    max-width: 35%;
+	margin-top: 5%;
+	margin-right: 1400px;
+	margin-left: 10%;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #0000ff;
+	align-content: center;
+}
+
+#divB {
+
+	margin-top: -18.75%;
+	margin-left: 50%;
+	margin-right: 1700;
+}
+
+button {
+
+    padding: 13px 39px;
+}
+body {
+    background-color: lightblue;
+    align-content: center;
+}
